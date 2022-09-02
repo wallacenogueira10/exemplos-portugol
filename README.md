@@ -1,2 +1,2 @@
 # exemplos-portugol
-aulas utilizando o Portugol para aprender programar
+Exemplo de como se aplica o portugol na contrução de um algoritmo 
